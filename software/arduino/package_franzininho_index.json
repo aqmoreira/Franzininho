@@ -14,7 +14,7 @@
           "architecture": "avr",
           "version": "1.6.7",
           "category": "Franzininho",
-          "url": "https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/franzininho-avr-1.6.7.zip",
+          "url": "https://github.com/aqmoreira/Franzininho/raw/frazininho-ide-arduino/software/arduino/franzininho-avr-1.6.7.zip",
           "archiveFileName": "franzininho-avr-1.6.7.zip",
           "checksum": "SHA-256:d482e16c27ead354a6013c392ebc76d16ddd257c30ea32c66e311a2c3576d5cd",
           "size": "81702",

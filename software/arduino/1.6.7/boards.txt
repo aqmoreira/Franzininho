@@ -1,0 +1,62 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+menu.cpu=Processor
+
+##############################################################
+
+
+franzininho-tiny.name=Franzininho (Default - 16.5mhz)
+franzininho-tiny.upload.using=micronucleusprog
+franzininho-tiny.upload.protocol=usb
+franzininho-tiny.upload.tool=micronucleus
+franzininho-tiny.upload.maximum_size=6012
+franzininho-tiny.build.mcu=attiny85
+franzininho-tiny.build.f_cpu=16500000L
+franzininho-tiny.build.board=AVR_FRANZININHO
+franzininho-tiny.build.core=tiny
+franzininho-tiny.build.variant=franzininho
+franzininho-tiny.upload.wait_for_upload_port = false
+franzininho-tiny.upload.use_1200bps_touch = false
+franzininho-tiny.upload.disable_flushing = false
+
+franzininho-tiny16.name=Franzininho (16mhz - No USB)
+franzininho-tiny16.upload.using=micronucleusprog
+franzininho-tiny16.upload.protocol=usb
+franzininho-tiny16.upload.tool=micronucleus
+franzininho-tiny16.upload.maximum_size=6012
+franzininho-tiny16.build.mcu=attiny85
+franzininho-tiny16.build.f_cpu=16000000L
+franzininho-tiny16.build.board=AVR_FRANZININHO
+franzininho-tiny16.build.core=tiny
+franzininho-tiny16.build.variant=franzininho
+franzininho-tiny16.upload.wait_for_upload_port = false
+franzininho-tiny16.upload.use_1200bps_touch = false
+franzininho-tiny16.upload.disable_flushing = false
+
+franzininho-tiny8.name=Franzininho (8mhz - No USB)
+franzininho-tiny8.upload.using=micronucleusprog
+franzininho-tiny8.upload.protocol=usb
+franzininho-tiny8.upload.tool=micronucleus
+franzininho-tiny8.upload.maximum_size=6012
+franzininho-tiny8.build.mcu=attiny85
+franzininho-tiny8.build.f_cpu=8000000L
+franzininho-tiny8.build.board=AVR_FRANZININHO
+franzininho-tiny8.build.core=tiny
+franzininho-tiny8.build.variant=franzininho
+franzininho-tiny8.upload.wait_for_upload_port = false
+franzininho-tiny8.upload.use_1200bps_touch = false
+franzininho-tiny8.upload.disable_flushing = false
+
+franzininho-tiny1.name=Franzininho (1mhz - No USB)
+franzininho-tiny1.upload.using=micronucleusprog
+franzininho-tiny1.upload.protocol=usb
+franzininho-tiny1.upload.tool=micronucleus
+franzininho-tiny1.upload.maximum_size=6012
+franzininho-tiny1.build.mcu=attiny85
+franzininho-tiny1.build.f_cpu=1000000L
+franzininho-tiny1.build.board=AVR_FRANZININHO
+franzininho-tiny1.build.core=tiny
+franzininho-tiny1.build.variant=franzininho
+franzininho-tiny1.upload.wait_for_upload_port = false
+franzininho-tiny1.upload.use_1200bps_touch = false
+franzininho-tiny1.upload.disable_flushing = false

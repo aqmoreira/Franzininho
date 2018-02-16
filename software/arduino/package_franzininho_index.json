@@ -79,9 +79,9 @@
                {
                  "host": "x86_64-linux-gnu",
                  "archiveFileName": "micronucleus-2.0a4-linux64.tar.gz",
-                 "url": "https://github.com/digistump/DigistumpArduino/releases/download/1.6.5a/micronucleus-2.0a4-linux64.tar.gz",
-                 "checksum": "SHA-256:1F545C0BB60E85A604901C2D7044772AC91776594C209C571DFEDAD4A70195B8",
-                 "size": "22874"
+                 "url": "https://github.com/aqmoreira/Franzininho/raw/frazininho-ide-arduino/software/arduino/micronucleus-2.0a4-linux64.tar.gz",
+                 "checksum": "SHA-256:e1701f8fd8284f331ab28cf0e2eab1b3a229b4c70c0f427ad0e2b61785c0feae",
+                 "size": "76614"
                }
 
              ]

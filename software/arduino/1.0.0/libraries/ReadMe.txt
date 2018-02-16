@@ -1,0 +1,1 @@
+This folder is located inside Libraries directory so the examples can be accessed within the Arduino IDE.

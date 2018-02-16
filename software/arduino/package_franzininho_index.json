@@ -14,10 +14,10 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Franzininho",
-          "url": "https://github.com/aqmoreira/Franzininho/raw/frazininho-ide-arduino/software/arduino/franzininho-avr-1.6.7.zip",
-          "archiveFileName": "franzininho-avr-1.6.7.zip",
-          "checksum": "SHA-256:a3f14874f6879180e6ea502d02806bc2ed874bd640998ea909c768d36293767c",
-          "size": "81702",
+          "url": "https://github.com/aqmoreira/Franzininho/raw/frazininho-ide-arduino/software/arduino/franzininho-avr-1.0.0.zip",
+          "archiveFileName": "franzininho-avr-1.0.0.zip",
+          "checksum": "SHA-256:bacaff3e2e9453b05a396587af7464e4accbc0709ea0ca15dbb83d9d1f80f347",
+          "size": "82212",
           "help": {
             "online": "https://github.com/FBSeletronica/Franzininho"
           },
